@@ -1,7 +1,4 @@
 ### Olá! Eu sou o Elias Manhicana, programador e designer web 😀
-
-Hoje trabalho com <b> front-end e back-end </b> <br>
-Atualmente estou estudando <b> JavaScript (JS) </b> <p> <br>
  
 <div align="center">
   <a href="https://github.com/EliasManhicana">
