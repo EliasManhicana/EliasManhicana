@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elias Manhicana, programador e designer web 😀
+### Olá! Eu sou o Elias Manhicana, Desenvolvedor Full Stack Mobile e Web 😀
  
 <div align="center">
   <a href="https://github.com/EliasManhicana">
